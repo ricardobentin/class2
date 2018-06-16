@@ -1,0 +1,30 @@
+h1 {
+    font-family: 'Arimo', sans-serif;
+}
+
+p {
+    font-size: 20px;
+    font-weight: normal;
+    line-height: 2;
+    letter-spacing: 5;
+    font-family: 'Jua', sans-serif;
+}
+p:hover {
+    color: red;
+    font-weight: bold;
+}
+
+ol {
+    font-family: 'BioRhyme Expanded', serif;
+
+}
+
+a:active {
+    color: lime;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+input:focus {
+    background-color: yellow;
+
+}
